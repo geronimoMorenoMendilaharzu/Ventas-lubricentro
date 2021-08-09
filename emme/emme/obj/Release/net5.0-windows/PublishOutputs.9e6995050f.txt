@@ -1,0 +1,5 @@
+A:\Documentos Geronimo\emme.exe
+A:\Documentos Geronimo\emme.dll
+A:\Documentos Geronimo\emme.deps.json
+A:\Documentos Geronimo\emme.runtimeconfig.json
+A:\Documentos Geronimo\emme.pdb
